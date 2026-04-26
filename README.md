@@ -135,6 +135,9 @@ This score provides a simple indicator of overall environmental quality.
 
 ### Score Display
 ![score](images/score.png)
+
+### Readings
+![readings](images/reading.png)
 ## Key Outcome
 
 The system successfully detects when CO₂ levels exceed 1000 ppm, a threshold associated with reduced cognitive performance in indoor environments.
