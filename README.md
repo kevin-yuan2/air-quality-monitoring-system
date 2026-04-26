@@ -76,6 +76,8 @@ This was necessary because the onboard regulator cannot supply sufficient curren
 ![Assembled Board Top](images/assembled_top.png)
 ![Assembled Board Bottom](images/assembled_bottom.png)
 
+### CAD Model
+![CAD](images/CAD_model.png)
 ---
 
 ## Design Considerations
@@ -127,7 +129,12 @@ If the score falls below 80, it is scaled slightly upward to maintain usability.
 This score provides a simple indicator of overall environmental quality.
 
 ---
+# Showcase
+### Overall Display
+![overall](images/overall.png)
 
+### Score Display
+![score](images/score.png)
 ## Key Outcome
 
 The system successfully detects when CO₂ levels exceed 1000 ppm, a threshold associated with reduced cognitive performance in indoor environments.
