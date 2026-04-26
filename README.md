@@ -60,21 +60,21 @@ This was necessary because the onboard regulator cannot supply sufficient curren
 
 ## PCB Design
 
-### Annotated Schematic
-![Annotated Schematic](images/schematic.png)
+### Block Diagram
+![Block](images/block_diagram.png)
 
-### PCB Layout
-![PCB Layout](images/pcb_layout.png)
+### Annotated Schematic
+![Annotated Schematic](images/schematic.png)![alt text](image.png)
 
 ### 3D View (Top)
 ![PCB 3D Top](images/pcb_top.png)
 
 ### 3D View (Bottom)
-![PCB 3D Bottom](images/pcb_![alt text](image.png)bottom.png)
+![PCB 3D Bottom](images/pcb_bottom.png)
 
 ### Final Assembled Board
-![Assembled Board Top](images/assembled_top.jpg)
-![Assembled Board Bottom](images/assembled_bottom.jpg)
+![Assembled Board Top](images/assembled_top.png)
+![Assembled Board Bottom](images/assembled_bottom.png)
 
 ---
 
